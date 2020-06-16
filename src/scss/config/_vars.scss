@@ -1,0 +1,21 @@
+// Vars typography 
+$fonts: (
+    title1: 50px 60px,
+    title2: 32px 40px,
+    title3: 25px 30px,
+    base: 20px 30px,
+    small: 16px 20px,
+    smaller: 14px 20px
+    );
+
+// Font-weight
+$normal: 400;
+$semibold: 600;
+
+
+// Breackpoints
+$breackpoints: (
+    medium: 640px,
+    large: 1024px,
+    xlarge: 1440
+);
